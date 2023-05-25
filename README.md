@@ -3,7 +3,7 @@
 
 <br>
 <p align="center">
-  Hi, I'm David Garcia, a high motivated and skilled Full Stack developer, with over 6 years of experience in developing innovative digital solutions.
+  I'm David Garcia, a high motivated and skilled Full Stack developer, with over 6 years of experience in developing innovative digital solutions.
   <br>
   <br>
   🔬 I'm currently working on Remote.
