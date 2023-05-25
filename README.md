@@ -14,7 +14,7 @@
   <br>
   📚 I’m very familiarized with CI/CD pipelines.
   <br>
-  💬 Ask me anything about from <a href="https://github.com/enthusiastica/enthusiastica/issues" title="Issues">Here</a>
+  💬 Ask me anything about from <a href="https://github.com/margalingibhubclt/margalingibhubclt/issues" title="Issues">Here</a>
 </p>
 
 <hr>
